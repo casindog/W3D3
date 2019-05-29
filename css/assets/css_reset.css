@@ -1,0 +1,14 @@
+body, h2, h1, p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  font: inherit;
+}
+
+body {
+  line-height: : 1.5;
+}
+ul, ol {
+  list-style: none;
+}
